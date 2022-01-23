@@ -1,3 +1,0 @@
-key1=anotherValue1
-key2=anotherValue2
-key3=anotherValue3
