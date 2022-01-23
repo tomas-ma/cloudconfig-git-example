@@ -1,0 +1,4 @@
+key1=value1qa
+key2=value2qa
+key3=value3qa
+environment=qa

@@ -1,0 +1,4 @@
+key1=someString
+key2=anotherString
+key3=myValue
+key4=defaultValue
